@@ -1,7 +1,7 @@
 # WechatArticleCrawler
 
 ### 1.安装旧版微信-2.9.5版本
-下载地址：https://priapus.lanzoux.com/i6Szeipeure
+下载地址：<a href="https://pan.baidu.com/s/1WYCvyGZL5T0AHIkfiCxBdA?pwd=jjaf" target="_blank">https://pan.baidu.com/s/1WYCvyGZL5T0AHIkfiCxBdA?pwd=jjaf</a>
 
 ### 2.登录微信，进入公众号的历史文章页面
 ![img.png](img/img.png)
@@ -24,4 +24,4 @@
 
 ### 8.运行main.py
 
-_解决思路参考：https://guozh.net/export-wechat-public-account-history-articles/_
+_解决思路参考：<a href="https://guozh.net/export-wechat-public-account-history-articles/" target="_blank">https://guozh.net/export-wechat-public-account-history-articles/</a>_
